@@ -53,4 +53,4 @@ Jeu éducatif : les valeurs sont simplifiées et ne servent pas de référence d
 
 Alpha : attendez-vous à des bugs et des comportements bizarres.
 
-© 2026. Licence : à définir.
+© 2026. Licence : Tous droits réservés
