@@ -1,10 +1,6 @@
-[README.md](https://github.com/user-attachments/files/33407480/README.md)
 # Machining Simulator 2D
 
-**Apprends en usinant.** Un jeu éducatif en 2D pour découvrir l'usinage de façon ludique, pensé pour les nouveaux arrivants en **Seconde Bac Pro [docs.zip](https://github.com/user-attachments/files/33407531/docs.zip)
-[files.zip](https://github.com/user-attachments/files/33407515/files.zip)
-
-Usinage**.
+**Apprends en usinant.** Un jeu éducatif en 2D pour découvrir l'usinage de façon ludique, pensé pour les nouveaux arrivants en **Seconde Bac Pro Usinage**.
 
 Tu règles la coupe, tu choisis la machine et les outils, tu fais tes calculs, puis tu lances le cycle et tu surveilles ta machine. Marcel, le chef d'atelier, te guide et commente chacun de tes choix. Si tu te trompes, ça se voit : surface rugueuse, outil cassé, machine détruite.
 
