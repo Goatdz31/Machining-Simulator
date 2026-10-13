@@ -45,7 +45,7 @@ Les mises à jour sont proposées directement dans le jeu : une notification app
 ## Équipe
 
 Projet réalisé au **Lycée Saint-Exupéry de Blagnac** par :
-BELO DA SILVA Tomas, BENGHEZAL Lamine, GUETTAT Mohamed, METCHE Maxime.
+B.Tomas, B.Lamine, G.Mohamed, M.Maxime.
 
 ## Avertissement
 
